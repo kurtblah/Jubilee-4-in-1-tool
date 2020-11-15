@@ -13,7 +13,7 @@ Some of the modifications to the base BMG tool are:
 
 3. Modified the tool wings, using the most current o-ring version.
 
-4. The wire-loom holder is designed to my own specs, using the 36 -nch long zip ties for cable support. This can be altered easily to suit other designs.
+4. The wire-loom holder is designed to my own specs, using the 36 -nch long zip ties for cable support. This can be altered easily to suit other designs. I am using USB 3.1 breakout boards and cabling in my setup currently, there is a bracket included.
 
 5. Added slots for wiring of hotend, etc to keep them away from the tool posts.
 
