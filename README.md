@@ -19,11 +19,11 @@ Some of the modifications to the base BMG tool are:
 
 I am using heat inserts EVERYWHERE. There is a need for both the bigger ones (5mm, from the BOM) and smaller ones. You may wish to alter the files to suit the sizes of inserts you have on hand.
 
-Print setting are the same as those spec'ed by the Jubilee project page. I used ABS+ filament for the entire devleopment process without regret.
+Print settings are the same as those spec'ed by the Jubilee project page. I used ABS+ filament for the entire devleopment process without regret.
 
 Config setings for the extruders can be found from their specific repos. I would also recommend checking these repo's for updates as I will probably not be able to keep this repo as current as I'd like to.
 
-I can think of future improvements already: improved cable harness, accomodating some kind of reaasonable tool board. Part cooling fan improvements. Accomdating other hot-ends once they become commonly used.
+I can think of future improvements already: improved cable harness, accomodating some kind of reasonable tool board. Part cooling fan improvements. Accomodating other hot-ends once they become commonly used.
 
 Derpa Extruder: https://github.com/wesc23/Derpa-Extruder
 Sherpa Mini: (still in beta as of this writing, STL's only) https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
